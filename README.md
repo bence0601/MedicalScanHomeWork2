@@ -1,5 +1,4 @@
-## Disclaimer : Haven't finished the project, because the expiration of the suggested time limit. Also, I would like to kindly draw your attention to the part of my CV which actually matches the job description(either .NET or Angular), which is .NET. I would like to work for your company, and I want to represent my skills in .NET, so if you're still interested in me, and want to see original ideas and codes coming from my head, instead of massive google-ing for basic syntax and structure of Angular framework, then send me a homework where you're expecting usage of .NET.
-
+## Disclaimer : Haven't finished the project, because the expiration of the suggested time limit. Also, I would like to kindly draw your attention to the part of my CV which actually matches the job description(either .NET or Angular), which is .NET. I would like to work for your company, and I want to represent my skills in .NET, so if you're still interested in me, and want to see what I'm really capable of, you can interview me in the topics mentioned in my resume. Because this 4 hours was really spent with searching for basics syntax and structure of Angular. And however I managed to implement the logic of the API, it's still not running due to incompatible library versions.
 ## MedicalScanHomeWork2 is an Angular web application, which operates with external API called Jitsi API, which can help host video conferences for the developer.
 
 
@@ -32,3 +31,13 @@ Additionally, install the Jitsi library using npm:
 
 ```bash
 npm install lib-jitsi-meet
+
+
+### Challenges:
+- Trying to get used to Angular after React.js
+- Searching for help over the Internet due to lack of information of Angular 17. version
+- Trying to find an older version of Angular CLI and Node where all the additional libraries working
+
+## Solutions:
+- Searching for precise, easy to follow Angular tutorials, searching on StackOverFlow
+- Trying to find documentation what changed in Angular 17, and trying to find a way that I can implement older help and instructions to achieve my goals
