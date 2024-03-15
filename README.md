@@ -18,3 +18,17 @@ Before setting up the project, ensure you have the following installed:
 
    ```bash
    npm install -g @angular/cli
+2. **Node Version Manager (NVM):**
+
+Use NVM to adjust the Node.js version if necessary. Refer to NVM documentation for installation instructions.
+
+Jitsi Library:
+
+Add the Jitsi Meet library script to your project:
+
+```html
+<script src="https://meet.jit.si/libs/lib-jitsi-meet.min.js"></script>
+Additionally, install the Jitsi library using npm:
+
+```bash
+npm install lib-jitsi-meet
