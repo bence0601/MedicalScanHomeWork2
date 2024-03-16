@@ -10,7 +10,7 @@
 ## Solutions:
 - Searching for precise, easy to follow Angular tutorials, searching on StackOverFlow
 - Trying to find documentation what changed in Angular 17, and trying to find a way that I can implement older help and instructions to achieve my goals
-- 
+  
 ### Prerequisites
 
 Before setting up the project, ensure you have the following installed:
@@ -41,5 +41,6 @@ Additionally, install the Jitsi library using npm:
 ```bash
 npm install lib-jitsi-meet 
 
-
+### Executing the program
+   
 
