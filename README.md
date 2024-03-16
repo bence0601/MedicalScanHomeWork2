@@ -31,7 +31,7 @@ Add the Jitsi Meet library script to your project:
 Additionally, install the Jitsi library using npm:
 
 ```bash
-npm install lib-jitsi-meet
+npm install lib-jitsi-meet ```
 
 
 ### Challenges:
