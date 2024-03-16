@@ -42,7 +42,10 @@ npm install lib-jitsi-meet
 ```
 3. **Executing the program:**
 
-You can start the program after making sure you're in the correct directory, then type npm start   
+You can start the program after making sure you're in the correct directory, then type :
+
+```bash
+npm start   
 
 
 
