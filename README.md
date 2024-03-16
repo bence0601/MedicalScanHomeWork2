@@ -2,7 +2,15 @@
 
 ## MedicalScanHomeWork2 is an Angular web application, which operates with external API called Jitsi API, which can help host video conferences for the developer.
 
+### Challenges:
+- Trying to get used to Angular after React.js
+- Searching for help over the Internet due to lack of information of Angular 17. version
+- Trying to find an older version of Angular CLI and Node where all the additional libraries working
 
+## Solutions:
+- Searching for precise, easy to follow Angular tutorials, searching on StackOverFlow
+- Trying to find documentation what changed in Angular 17, and trying to find a way that I can implement older help and instructions to achieve my goals
+- 
 ### Prerequisites
 
 Before setting up the project, ensure you have the following installed:
@@ -31,14 +39,7 @@ Add the Jitsi Meet library script to your project:
 Additionally, install the Jitsi library using npm:
 
 ```bash
-npm install lib-jitsi-meet ```
+npm install lib-jitsi-meet 
 
 
-### Challenges:
-- Trying to get used to Angular after React.js
-- Searching for help over the Internet due to lack of information of Angular 17. version
-- Trying to find an older version of Angular CLI and Node where all the additional libraries working
 
-## Solutions:
-- Searching for precise, easy to follow Angular tutorials, searching on StackOverFlow
-- Trying to find documentation what changed in Angular 17, and trying to find a way that I can implement older help and instructions to achieve my goals
